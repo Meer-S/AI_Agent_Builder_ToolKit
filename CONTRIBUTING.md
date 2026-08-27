@@ -34,3 +34,8 @@ All contributions must follow these principles:
 ### Step 1: Fork the Repository
 ```bash
 git fork https://github.com/<your-username>/AI_Agent_Builder_Toolkit.git
+
+---
+
+This file ensures your contributors follow **security, verification, and compliance standards** while maintaining consistency across your repo.  
+
